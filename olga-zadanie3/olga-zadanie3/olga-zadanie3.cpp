@@ -158,6 +158,9 @@ int main()
 			}
 
 			std::cout << "\n";
+			std::cout << "Czy juz moge zarabiac 6tys netto?" << "\n";
+
+			std::cout << "btw, dziekuje, Arek!";
 		}
 		/*KONIEC ZADANIE 3.1*/
 		else
