@@ -208,7 +208,7 @@ int main()
 				break;
 
 			default:
-				std::cout << "Nie jestem wystarczajaco dobra, by to zrobic :(" << "\n\n";
+				std::cout << "Nie jestem wystarczajaco dobra, by to zrobic :((" << "\n\n";
 
 
 			}
