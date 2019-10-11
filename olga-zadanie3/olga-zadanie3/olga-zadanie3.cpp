@@ -144,11 +144,13 @@ int main()
 						std::cout << "Jestes glupi" << "\n";
 					}
 				}
+			break;
 
 			case 4:
 
 				suma = liczba_jeden * liczba_dwa;
 				std::cout << "Twoj wynik wynosi: " << suma;
+			break;
 
 			default:
 
