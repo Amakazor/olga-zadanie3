@@ -218,5 +218,6 @@ int main()
 			std::cout << "Koniec \n\n";
 		}
 	}
-
+	std::cout << "spoko jestes";
 }
+
